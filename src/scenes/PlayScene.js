@@ -28,7 +28,7 @@ class PlayScene extends BaseScene {
       },
       hard: {
         pipeHorizontalDistanceRange: [250, 310],
-        pipeVerticalDistanceRange: [50, 100],
+        pipeVerticalDistanceRange: [100, 130],
       },
     };
   }
